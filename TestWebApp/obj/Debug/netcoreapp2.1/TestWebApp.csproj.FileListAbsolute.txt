@@ -1,0 +1,14 @@
+C:\Users\overl\source\repos\TestWebApp\TestWebApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\overl\source\repos\TestWebApp\TestWebApp\bin\Debug\netcoreapp2.1\TestWebApp.deps.json
+C:\Users\overl\source\repos\TestWebApp\TestWebApp\bin\Debug\netcoreapp2.1\TestWebApp.runtimeconfig.json
+C:\Users\overl\source\repos\TestWebApp\TestWebApp\bin\Debug\netcoreapp2.1\TestWebApp.runtimeconfig.dev.json
+C:\Users\overl\source\repos\TestWebApp\TestWebApp\bin\Debug\netcoreapp2.1\TestWebApp.dll
+C:\Users\overl\source\repos\TestWebApp\TestWebApp\bin\Debug\netcoreapp2.1\TestWebApp.pdb
+C:\Users\overl\source\repos\TestWebApp\TestWebApp\obj\Debug\netcoreapp2.1\TestWebApp.csprojAssemblyReference.cache
+C:\Users\overl\source\repos\TestWebApp\TestWebApp\obj\Debug\netcoreapp2.1\TestWebApp.RazorAssemblyInfo.cache
+C:\Users\overl\source\repos\TestWebApp\TestWebApp\obj\Debug\netcoreapp2.1\TestWebApp.RazorAssemblyInfo.cs
+C:\Users\overl\source\repos\TestWebApp\TestWebApp\obj\Debug\netcoreapp2.1\TestWebApp.AssemblyInfoInputs.cache
+C:\Users\overl\source\repos\TestWebApp\TestWebApp\obj\Debug\netcoreapp2.1\TestWebApp.AssemblyInfo.cs
+C:\Users\overl\source\repos\TestWebApp\TestWebApp\obj\Debug\netcoreapp2.1\TestWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\overl\source\repos\TestWebApp\TestWebApp\obj\Debug\netcoreapp2.1\TestWebApp.dll
+C:\Users\overl\source\repos\TestWebApp\TestWebApp\obj\Debug\netcoreapp2.1\TestWebApp.pdb

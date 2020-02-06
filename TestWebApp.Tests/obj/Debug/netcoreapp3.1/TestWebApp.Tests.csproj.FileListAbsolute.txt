@@ -1,0 +1,5 @@
+C:\Users\overl\source\repos\TestWebApp\TestWebApp.Tests\bin\Debug\netcoreapp3.1\TestWebApp.Tests.deps.json
+C:\Users\overl\source\repos\TestWebApp\TestWebApp.Tests\bin\Debug\netcoreapp3.1\TestWebApp.Tests.dll
+C:\Users\overl\source\repos\TestWebApp\TestWebApp.Tests\obj\Debug\netcoreapp3.1\TestWebApp.Tests.csprojAssemblyReference.cache
+C:\Users\overl\source\repos\TestWebApp\TestWebApp.Tests\obj\Debug\netcoreapp3.1\TestWebApp.Tests.AssemblyInfoInputs.cache
+C:\Users\overl\source\repos\TestWebApp\TestWebApp.Tests\obj\Debug\netcoreapp3.1\TestWebApp.Tests.AssemblyInfo.cs
